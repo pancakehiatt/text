@@ -14,6 +14,7 @@ Suddenly, you look down. You see a hole. Maybe you can get out through it.
 
 - Red Pill
 - Blue Pill
+- One thin mint
 
 ## Exits
 
